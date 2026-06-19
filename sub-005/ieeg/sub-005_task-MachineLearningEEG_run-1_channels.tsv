@@ -1,0 +1,22 @@
+name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
+A'2	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+A'3	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+A'4	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+A'5	SEEG	uV	n/a	2000	n/a	5000	soz
+A'6	SEEG	uV	n/a	2000	n/a	5000	soz
+B'1	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B'13	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'14	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'15	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'2	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B'3	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B'4	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B'5	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'6	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'7	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+C'1	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+C'2	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+C'3	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+C'4	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+C'5	SEEG	uV	n/a	2000	n/a	5000	nonsoz

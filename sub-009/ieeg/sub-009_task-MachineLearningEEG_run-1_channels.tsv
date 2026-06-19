@@ -1,0 +1,7 @@
+name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
+B'1	SEEG	uV	n/a	2000	n/a	5000	soz
+B'2	SEEG	uV	n/a	2000	n/a	5000	soz
+B'3	SEEG	uV	n/a	2000	n/a	5000	soz
+B1	SEEG	uV	n/a	2000	n/a	5000	soz
+B2	SEEG	uV	n/a	2000	n/a	5000	soz
+B3	SEEG	uV	n/a	2000	n/a	5000	soz

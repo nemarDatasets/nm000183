@@ -1,0 +1,12 @@
+{
+  "seizure_onset_zone": {
+    "Description": "Whether the contact is in the seizure onset zone",
+    "Levels": {
+      "0": "outside SOZ",
+      "1": "inside SOZ"
+    }
+  },
+  "anatomical_label": {
+    "Description": "Anatomical location of the contact (from the source clip metadata; n/a where unavailable)"
+  }
+}

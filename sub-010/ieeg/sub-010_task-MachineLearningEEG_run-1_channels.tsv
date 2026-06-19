@@ -1,0 +1,52 @@
+name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
+A'10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+A'6	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+A'7	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+A'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+A'9	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'1	SEEG	uV	n/a	2000	n/a	5000	soz
+B'10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'2	SEEG	uV	n/a	2000	n/a	5000	soz
+B'3	SEEG	uV	n/a	2000	n/a	5000	soz
+B'4	SEEG	uV	n/a	2000	n/a	5000	soz
+B'5	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'6	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'7	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B1	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+B2	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B3	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B4	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+B5	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+C'1	SEEG	uV	n/a	2000	n/a	5000	soz
+C'14	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+C'2	SEEG	uV	n/a	2000	n/a	5000	soz
+C'3	SEEG	uV	n/a	2000	n/a	5000	soz
+C'4	SEEG	uV	n/a	2000	n/a	5000	soz
+C'5	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+C'6	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+D'7	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+D'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+I'10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+I'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+I'9	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+K'1	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+K'10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+K'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+K'9	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+O'12	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+O'13	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+O'14	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+O'15	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+P'10	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+P'7	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+P'8	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+P'9	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+Tp'1	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+Tp'2	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+Tp'3	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+Tp'4	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+Tp'5	SEEG	uV	n/a	2000	n/a	5000	irritative zone
+Tp'9	SEEG	uV	n/a	2000	n/a	5000	nonsoz
+Tp10	SEEG	uV	n/a	2000	n/a	5000	nonsoz

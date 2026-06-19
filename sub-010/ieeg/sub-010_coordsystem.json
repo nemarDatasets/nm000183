@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "Electrode positions were not published with this dataset (localized intra-operatively but coordinates not shared), so x/y/z are n/a. Shaft membership is given by the electrodes.tsv 'group' column."
+}
