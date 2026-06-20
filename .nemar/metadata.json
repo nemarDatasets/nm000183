@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
+  "description": "A multicenter intracranial electroencephalography (iEEG) dataset acquired from patients undergoing clinical evaluation at St. Anne's University Hospital for classification of graphoelements and artifactual signals. The dataset comprises 30-minute awake resting interictal recordings sampled at 5 kHz from standard depth electrodes with anatomical annotations and seizure onset zone labeling. This BIDS-formatted release includes metadata enrichment and represents a valuable resource for developing and validating signal processing and machine learning methods in clinical neurophysiology.",
+  "methods_description": "iEEG recordings were acquired using M&I BrainScope systems at 25 kHz and downsampled to 5 kHz. Standard intracranial depth electrodes (5/10/15-contact semi-flexible, ALCIS, Platinum) with 2 mm contact length, 0.8 mm diameter, and 1.5 mm inter-contact spacing were used. Recordings consisted of 30-minute awake resting interictal sessions with 50 Hz power line frequency.",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Petr Nejedly": {
       "orcid": "0000-0002-5382-2134"
@@ -24,14 +29,32 @@
     "Pavel Jurak": {},
     "Gregory Worrell": {}
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "epilepsy"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "artifact detection"
+    },
+    {
+      "term": "signal classification"
+    },
+    {
+      "term": "BIDS"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-020-0532-5",
-      "identifier_type": "DOI",
-      "relation_type": "References"
-    },
-    {
-      "identifier": "10.6084/m9.figshare.12191868",
       "identifier_type": "DOI",
       "relation_type": "References"
     },
@@ -44,49 +67,31 @@
       "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000183",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.12191868",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
-  "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "license": "CC0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "10.8 GB (641 files)"
   ],
   "formats": [
     ".json",
+    ".md",
     ".rdat",
     ".ridx",
     ".tdat",
     ".tidx",
     ".tmet",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "A multicenter intracranial electroencephalography (iEEG) dataset acquired from patients undergoing clinical evaluation at St. Anne's University Hospital in Brno, Czech Republic. The dataset comprises 30-minute awake resting interictal recordings sampled at 5 kHz using standard depth electrodes, with detailed electrode localization and seizure onset zone annotations. This resource is designed to support the development and validation of automated classification methods for graphoelements and artifactual signals in clinical iEEG recordings.",
-  "methods_description": "iEEG recordings were acquired using standard intracranial depth electrodes (5/10/15-contact semi-flexible, ALCIS, Platinum; 2 mm contact length, 0.8 mm diameter, 1.5 mm inter-contact spacing) at 25 kHz using M&I BrainScope equipment, then downsampled to 5 kHz. Power line frequency: 50 Hz. Recordings consisted of 30-minute awake resting interictal sessions. Electrode contacts were annotated with shaft group, seizure onset zone status, and anatomical location where available.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "depth electrodes"
-    },
-    {
-      "term": "seizure onset zone"
-    },
-    {
-      "term": "artifact detection"
-    },
-    {
-      "term": "signal classification"
-    },
-    {
-      "term": "epilepsy"
-    }
-  ],
-  "source_hash": "0d534f09be58f4eda613a33d281d29e6d9d8db7d2a41a1c42b1305690457c3e3"
+  "source_hash": "1ad6933f0d803d264dd5f25a1fa7a3cde43c5b9146ff4d4aa20e6421a8990ab4"
 }
