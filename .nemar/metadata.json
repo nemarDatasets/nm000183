@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "description": "A multicenter intracranial electroencephalography (iEEG) dataset acquired from patients undergoing clinical evaluation at St. Anne's University Hospital for classification of graphoelements and artifactual signals. The dataset comprises 30-minute awake resting interictal recordings sampled at 5 kHz from standard depth electrodes with anatomical annotations and seizure onset zone labeling. This BIDS-formatted release includes metadata enrichment and represents a valuable resource for developing and validating signal processing and machine learning methods in clinical neurophysiology.",
-  "methods_description": "iEEG recordings were acquired using M&I BrainScope systems at 25 kHz and downsampled to 5 kHz. Standard intracranial depth electrodes (5/10/15-contact semi-flexible, ALCIS, Platinum) with 2 mm contact length, 0.8 mm diameter, and 1.5 mm inter-contact spacing were used. Recordings consisted of 30-minute awake resting interictal sessions with 50 Hz power line frequency.",
+  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes clinical metadata such as seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations, making it suitable for developing and validating automated signal classification algorithms in clinical neurophysiology.",
+  "methods_description": "iEEG data were recorded from patient-specific subdural and depth electrodes and segmented into independent 3-second single-channel clips. The clips were resampled to 5000 Hz and concatenated by subject and electrode contact. Original labels, segment identifiers, anatomical locations, reviewer identifiers, SOZ flags, and electrode types were preserved in event annotations.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -34,22 +34,19 @@
       "term": "intracranial EEG"
     },
     {
-      "term": "iEEG"
-    },
-    {
       "term": "epilepsy"
-    },
-    {
-      "term": "seizure onset zone"
-    },
-    {
-      "term": "artifact detection"
     },
     {
       "term": "signal classification"
     },
     {
-      "term": "BIDS"
+      "term": "artifact detection"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "neurophysiology"
     }
   ],
   "related_identifiers": [
@@ -64,14 +61,14 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000183",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
       "identifier": "10.6084/m9.figshare.12191868",
       "identifier_type": "DOI",
       "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000183",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "resource_type_general": "Dataset",
@@ -80,18 +77,16 @@
     "ieeg"
   ],
   "sizes": [
-    "10.8 GB (641 files)"
+    "22.4 GB (1907 files)"
   ],
   "formats": [
+    ".eeg",
     ".json",
     ".md",
-    ".rdat",
-    ".ridx",
-    ".tdat",
-    ".tidx",
-    ".tmet",
     ".tsv",
+    ".vhdr",
+    ".vmrk",
     ".yml"
   ],
-  "source_hash": "1ad6933f0d803d264dd5f25a1fa7a3cde43c5b9146ff4d4aa20e6421a8990ab4"
+  "source_hash": "f412db8ddcbe092d4e8f4876b23a3b3fadefb5473eb5ddee6083402b36630eab"
 }
