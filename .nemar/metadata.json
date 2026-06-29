@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes clinical metadata such as seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations, making it suitable for developing and validating automated signal classification algorithms in clinical neurophysiology.",
-  "methods_description": "iEEG data were recorded from patient-specific subdural and depth electrodes and segmented into independent 3-second single-channel clips. The clips were resampled to 5000 Hz and concatenated by subject and electrode contact. Original labels, segment identifiers, anatomical locations, reviewer identifiers, SOZ flags, and electrode types were preserved in event annotations.",
+  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes clinical metadata such as seizure onset zone (SOZ) flags, anatomical localization, and electrode characteristics across multiple recording sites. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
+  "methods_description": "iEEG data were recorded from epilepsy patients using depth and subdural electrodes. The dataset consists of independent 3-second single-channel clips sampled at 5000 Hz, extracted from clinical recordings and segmented into .mat archives. Each clip is annotated with electrode type, anatomical location, reviewer identification, and SOZ status. Data were converted to BIDS format from the original segmented archives while preserving all clinical annotations and signal integrity.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -37,16 +37,16 @@
       "term": "epilepsy"
     },
     {
-      "term": "signal classification"
+      "term": "seizure detection"
     },
     {
-      "term": "artifact detection"
+      "term": "artifact classification"
     },
     {
-      "term": "seizure onset zone"
+      "term": "signal processing"
     },
     {
-      "term": "neurophysiology"
+      "term": "clinical neurophysiology"
     }
   ],
   "related_identifiers": [
@@ -88,5 +88,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "f412db8ddcbe092d4e8f4876b23a3b3fadefb5473eb5ddee6083402b36630eab"
+  "source_hash": "a4d4cc387411f92099442ac8e7f67ae1329a013798fa326b6d6df9cc174e60ff"
 }
