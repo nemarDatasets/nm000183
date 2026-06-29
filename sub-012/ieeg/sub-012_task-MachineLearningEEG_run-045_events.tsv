@@ -1,0 +1,9 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y150714	B'15	1	3	n/a	0	depth
+3.0	3.0	noise	15000	y150715	B'15	1	3	n/a	0	depth
+6.0	3.0	noise	30000	y150716	B'15	1	3	n/a	0	depth
+9.0	3.0	noise	45000	y150717	B'15	1	3	n/a	0	depth
+12.0	3.0	noise	60000	y150718	B'15	1	3	n/a	0	depth
+15.0	3.0	noise	75000	y150719	B'15	1	3	n/a	0	depth
+18.0	3.0	noise	90000	y150720	B'15	1	3	n/a	0	depth
+21.0	3.0	noise	105000	y150721	B'15	1	3	n/a	0	depth

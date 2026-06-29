@@ -1,0 +1,27 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	physiology	0	y151605	B'9	3	3	gyrus temporalis medius	0	depth
+3.0	3.0	physiology	15000	y151606	B'9	3	3	gyrus temporalis medius	0	depth
+6.0	3.0	physiology	30000	y151607	B'9	3	3	gyrus temporalis medius	0	depth
+9.0	3.0	physiology	45000	y151608	B'9	3	3	gyrus temporalis medius	0	depth
+12.0	3.0	physiology	60000	y151609	B'9	3	3	gyrus temporalis medius	0	depth
+15.0	3.0	physiology	75000	y151610	B'9	3	3	gyrus temporalis medius	0	depth
+18.0	3.0	physiology	90000	y151611	B'9	3	3	gyrus temporalis medius	0	depth
+21.0	3.0	physiology	105000	y151612	B'9	3	3	gyrus temporalis medius	0	depth
+24.0	3.0	physiology	120000	y151613	B'9	3	3	gyrus temporalis medius	0	depth
+27.0	3.0	physiology	135000	y151614	B'9	3	3	gyrus temporalis medius	0	depth
+30.0	3.0	physiology	150000	y151615	B'9	3	3	gyrus temporalis medius	0	depth
+33.0	3.0	physiology	165000	y151616	B'9	3	3	gyrus temporalis medius	0	depth
+36.0	3.0	physiology	180000	y151617	B'9	3	3	gyrus temporalis medius	0	depth
+39.0	3.0	physiology	195000	y151618	B'9	3	3	gyrus temporalis medius	0	depth
+42.0	3.0	physiology	210000	y151619	B'9	3	3	gyrus temporalis medius	0	depth
+45.0	3.0	physiology	225000	y151620	B'9	3	3	gyrus temporalis medius	0	depth
+48.0	3.0	physiology	240000	y151621	B'9	3	3	gyrus temporalis medius	0	depth
+51.0	3.0	physiology	255000	y151622	B'9	3	3	gyrus temporalis medius	0	depth
+54.0	3.0	physiology	270000	y151623	B'9	3	3	gyrus temporalis medius	0	depth
+57.0	3.0	physiology	285000	y151624	B'9	3	3	gyrus temporalis medius	0	depth
+60.0	3.0	physiology	300000	y151625	B'9	3	3	gyrus temporalis medius	0	depth
+63.0	3.0	physiology	315000	y151626	B'9	3	3	gyrus temporalis medius	0	depth
+66.0	3.0	physiology	330000	y151627	B'9	3	3	gyrus temporalis medius	0	depth
+69.0	3.0	physiology	345000	y151628	B'9	3	3	gyrus temporalis medius	0	depth
+72.0	3.0	physiology	360000	y151629	B'9	3	3	gyrus temporalis medius	0	depth
+75.0	3.0	physiology	375000	y151630	B'9	3	3	gyrus temporalis medius	0	depth

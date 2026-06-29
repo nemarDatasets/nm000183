@@ -1,0 +1,10 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y034693	D'10	1	3	gyrus temporalis medius	0	depth
+3.0	3.0	noise	15000	y034694	D'10	1	3	gyrus temporalis medius	0	depth
+6.0	3.0	noise	30000	y034695	D'10	1	3	gyrus temporalis medius	0	depth
+9.0	3.0	noise	45000	y034696	D'10	1	3	gyrus temporalis medius	0	depth
+12.0	3.0	noise	60000	y034697	D'10	1	3	gyrus temporalis medius	0	depth
+15.0	3.0	noise	75000	y034698	D'10	1	3	gyrus temporalis medius	0	depth
+18.0	3.0	noise	90000	y034699	D'10	1	3	gyrus temporalis medius	0	depth
+21.0	3.0	noise	105000	y034700	D'10	1	3	gyrus temporalis medius	0	depth
+24.0	3.0	noise	120000	y034701	D'10	1	3	gyrus temporalis medius	0	depth

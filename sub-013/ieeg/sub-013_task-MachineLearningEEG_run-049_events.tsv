@@ -1,0 +1,9 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	physiology	0	y179847	C'11	3	3	gyrus temporalis medius	0	depth
+3.0	3.0	physiology	15000	y179848	C'11	3	3	gyrus temporalis medius	0	depth
+6.0	3.0	physiology	30000	y179849	C'11	3	3	gyrus temporalis medius	0	depth
+9.0	3.0	physiology	45000	y179850	C'11	3	3	gyrus temporalis medius	0	depth
+12.0	3.0	physiology	60000	y179851	C'11	3	3	gyrus temporalis medius	0	depth
+15.0	3.0	physiology	75000	y179852	C'11	3	3	gyrus temporalis medius	0	depth
+18.0	3.0	physiology	90000	y179853	C'11	3	3	gyrus temporalis medius	0	depth
+21.0	3.0	physiology	105000	y179854	C'11	3	3	gyrus temporalis medius	0	depth

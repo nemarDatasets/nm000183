@@ -1,0 +1,21 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	physiology	0	y121628	C'5	3	3	gyrus fusiformis	0	depth
+3.0	3.0	physiology	15000	y121629	C'5	3	3	gyrus fusiformis	0	depth
+6.0	3.0	physiology	30000	y121630	C'5	3	3	gyrus fusiformis	0	depth
+9.0	3.0	physiology	45000	y121631	C'5	3	3	gyrus fusiformis	0	depth
+12.0	3.0	physiology	60000	y121632	C'5	3	3	gyrus fusiformis	0	depth
+15.0	3.0	physiology	75000	y121633	C'5	3	3	gyrus fusiformis	0	depth
+18.0	3.0	physiology	90000	y121634	C'5	3	3	gyrus fusiformis	0	depth
+21.0	3.0	physiology	105000	y121635	C'5	3	3	gyrus fusiformis	0	depth
+24.0	3.0	physiology	120000	y121636	C'5	3	3	gyrus fusiformis	0	depth
+27.0	3.0	physiology	135000	y121637	C'5	3	3	gyrus fusiformis	0	depth
+30.0	3.0	physiology	150000	y121638	C'5	3	3	gyrus fusiformis	0	depth
+33.0	3.0	physiology	165000	y121639	C'5	3	3	gyrus fusiformis	0	depth
+36.0	3.0	physiology	180000	y121640	C'5	3	3	gyrus fusiformis	0	depth
+39.0	3.0	physiology	195000	y121641	C'5	3	3	gyrus fusiformis	0	depth
+42.0	3.0	physiology	210000	y121642	C'5	3	3	gyrus fusiformis	0	depth
+45.0	3.0	physiology	225000	y121643	C'5	3	3	gyrus fusiformis	0	depth
+48.0	3.0	physiology	240000	y121644	C'5	3	3	gyrus fusiformis	0	depth
+51.0	3.0	physiology	255000	y121645	C'5	3	3	gyrus fusiformis	0	depth
+54.0	3.0	physiology	270000	y121646	C'5	3	3	gyrus fusiformis	0	depth
+57.0	3.0	physiology	285000	y121647	C'5	3	3	gyrus fusiformis	0	depth

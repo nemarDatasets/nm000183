@@ -1,15 +1,15 @@
-participant_id	n_seeg_channels	n_soz_channels	institution
-sub-000	7	0	fnusa
-sub-001	6	3	fnusa
-sub-002	65	4	fnusa
-sub-003	30	23	fnusa
-sub-004	77	4	fnusa
-sub-005	21	2	fnusa
-sub-006	35	3	fnusa
-sub-007	57	8	fnusa
-sub-008	57	8	fnusa
-sub-009	6	6	fnusa
-sub-010	51	8	fnusa
-sub-011	69	12	fnusa
-sub-012	86	10	fnusa
-sub-013	65	5	fnusa
+participant_id	site	n_clips	n_source_contacts	n_pathology_clips
+sub-000	fnusa	7132	7	0
+sub-001	fnusa	1912	6	1912
+sub-002	fnusa	16673	65	1657
+sub-003	fnusa	8088	30	8076
+sub-004	fnusa	8463	77	0
+sub-005	fnusa	12038	21	1527
+sub-006	fnusa	2516	35	1554
+sub-007	fnusa	17885	57	7738
+sub-008	fnusa	22774	57	1896
+sub-009	fnusa	6750	6	6750
+sub-010	fnusa	11681	51	4260
+sub-011	fnusa	10301	69	4072
+sub-012	fnusa	47270	86	7710
+sub-013	fnusa	19635	65	5318

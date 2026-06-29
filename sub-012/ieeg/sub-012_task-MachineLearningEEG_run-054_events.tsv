@@ -1,0 +1,26 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y173444	C9	1	1	gyrus temporalis medius	1	depth
+3.0	3.0	noise	15000	y173445	C9	1	1	gyrus temporalis medius	1	depth
+6.0	3.0	noise	30000	y173446	C9	1	1	gyrus temporalis medius	1	depth
+9.0	3.0	noise	45000	y173447	C9	1	1	gyrus temporalis medius	1	depth
+12.0	3.0	noise	60000	y173448	C9	1	1	gyrus temporalis medius	1	depth
+15.0	3.0	noise	75000	y173449	C9	1	1	gyrus temporalis medius	1	depth
+18.0	3.0	noise	90000	y173450	C9	1	1	gyrus temporalis medius	1	depth
+21.0	3.0	noise	105000	y173451	C9	1	1	gyrus temporalis medius	1	depth
+24.0	3.0	noise	120000	y173452	C9	1	1	gyrus temporalis medius	1	depth
+27.0	3.0	noise	135000	y173453	C9	1	1	gyrus temporalis medius	1	depth
+30.0	3.0	noise	150000	y173454	C9	1	1	gyrus temporalis medius	1	depth
+33.0	3.0	noise	165000	y173455	C9	1	1	gyrus temporalis medius	1	depth
+36.0	3.0	noise	180000	y173456	C9	1	1	gyrus temporalis medius	1	depth
+39.0	3.0	noise	195000	y173457	C9	1	1	gyrus temporalis medius	1	depth
+42.0	3.0	noise	210000	y173458	C9	1	1	gyrus temporalis medius	1	depth
+45.0	3.0	noise	225000	y173459	C9	1	1	gyrus temporalis medius	1	depth
+48.0	3.0	noise	240000	y173460	C9	1	1	gyrus temporalis medius	1	depth
+51.0	3.0	noise	255000	y173461	C9	1	1	gyrus temporalis medius	1	depth
+54.0	3.0	noise	270000	y173462	C9	1	1	gyrus temporalis medius	1	depth
+57.0	3.0	noise	285000	y173463	C9	1	1	gyrus temporalis medius	1	depth
+60.0	3.0	noise	300000	y173464	C9	1	1	gyrus temporalis medius	1	depth
+63.0	3.0	noise	315000	y173465	C9	1	1	gyrus temporalis medius	1	depth
+66.0	3.0	noise	330000	y173466	C9	1	1	gyrus temporalis medius	1	depth
+69.0	3.0	noise	345000	y173467	C9	1	1	gyrus temporalis medius	1	depth
+72.0	3.0	noise	360000	y173468	C9	1	1	gyrus temporalis medius	1	depth

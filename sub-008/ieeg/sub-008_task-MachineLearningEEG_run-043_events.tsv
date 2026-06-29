@@ -1,0 +1,15 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y085977	B'10	2	3	gyrus temporalis medius	0	depth
+3.0	3.0	pathology	15000	y085978	B'10	2	3	gyrus temporalis medius	0	depth
+6.0	3.0	pathology	30000	y085979	B'10	2	3	gyrus temporalis medius	0	depth
+9.0	3.0	pathology	45000	y085980	B'10	2	3	gyrus temporalis medius	0	depth
+12.0	3.0	pathology	60000	y085981	B'10	2	3	gyrus temporalis medius	0	depth
+15.0	3.0	pathology	75000	y085982	B'10	2	3	gyrus temporalis medius	0	depth
+18.0	3.0	pathology	90000	y085983	B'10	2	3	gyrus temporalis medius	0	depth
+21.0	3.0	pathology	105000	y085984	B'10	2	3	gyrus temporalis medius	0	depth
+24.0	3.0	pathology	120000	y085985	B'10	2	3	gyrus temporalis medius	0	depth
+27.0	3.0	pathology	135000	y085986	B'10	2	3	gyrus temporalis medius	0	depth
+30.0	3.0	pathology	150000	y085987	B'10	2	3	gyrus temporalis medius	0	depth
+33.0	3.0	pathology	165000	y085988	B'10	2	3	gyrus temporalis medius	0	depth
+36.0	3.0	pathology	180000	y085989	B'10	2	3	gyrus temporalis medius	0	depth
+39.0	3.0	pathology	195000	y085990	B'10	2	3	gyrus temporalis medius	0	depth

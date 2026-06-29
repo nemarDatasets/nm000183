@@ -1,0 +1,24 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	physiology	0	y056584	B9	3	3	gyrus temporalis medius	0	depth
+3.0	3.0	physiology	15000	y056585	B9	3	3	gyrus temporalis medius	0	depth
+6.0	3.0	physiology	30000	y056586	B9	3	3	gyrus temporalis medius	0	depth
+9.0	3.0	physiology	45000	y056587	B9	3	3	gyrus temporalis medius	0	depth
+12.0	3.0	physiology	60000	y056588	B9	3	3	gyrus temporalis medius	0	depth
+15.0	3.0	physiology	75000	y056589	B9	3	3	gyrus temporalis medius	0	depth
+18.0	3.0	physiology	90000	y056590	B9	3	3	gyrus temporalis medius	0	depth
+21.0	3.0	physiology	105000	y056591	B9	3	3	gyrus temporalis medius	0	depth
+24.0	3.0	physiology	120000	y056592	B9	3	3	gyrus temporalis medius	0	depth
+27.0	3.0	physiology	135000	y056593	B9	3	3	gyrus temporalis medius	0	depth
+30.0	3.0	physiology	150000	y056594	B9	3	3	gyrus temporalis medius	0	depth
+33.0	3.0	physiology	165000	y056595	B9	3	3	gyrus temporalis medius	0	depth
+36.0	3.0	physiology	180000	y056596	B9	3	3	gyrus temporalis medius	0	depth
+39.0	3.0	physiology	195000	y056597	B9	3	3	gyrus temporalis medius	0	depth
+42.0	3.0	physiology	210000	y056598	B9	3	3	gyrus temporalis medius	0	depth
+45.0	3.0	physiology	225000	y056599	B9	3	3	gyrus temporalis medius	0	depth
+48.0	3.0	physiology	240000	y056600	B9	3	3	gyrus temporalis medius	0	depth
+51.0	3.0	physiology	255000	y056601	B9	3	3	gyrus temporalis medius	0	depth
+54.0	3.0	physiology	270000	y056602	B9	3	3	gyrus temporalis medius	0	depth
+57.0	3.0	physiology	285000	y056603	B9	3	3	gyrus temporalis medius	0	depth
+60.0	3.0	physiology	300000	y056604	B9	3	3	gyrus temporalis medius	0	depth
+63.0	3.0	physiology	315000	y056605	B9	3	3	gyrus temporalis medius	0	depth
+66.0	3.0	physiology	330000	y056606	B9	3	3	gyrus temporalis medius	0	depth

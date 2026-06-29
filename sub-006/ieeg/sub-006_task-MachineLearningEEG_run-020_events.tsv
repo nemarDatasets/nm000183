@@ -1,0 +1,23 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y056217	B10	2	3	gyrus temporalis medius	0	depth
+3.0	3.0	pathology	15000	y056218	B10	2	3	gyrus temporalis medius	0	depth
+6.0	3.0	pathology	30000	y056219	B10	2	3	gyrus temporalis medius	0	depth
+9.0	3.0	pathology	45000	y056220	B10	2	3	gyrus temporalis medius	0	depth
+12.0	3.0	pathology	60000	y056221	B10	2	3	gyrus temporalis medius	0	depth
+15.0	3.0	pathology	75000	y056222	B10	2	3	gyrus temporalis medius	0	depth
+18.0	3.0	pathology	90000	y056223	B10	2	3	gyrus temporalis medius	0	depth
+21.0	3.0	pathology	105000	y056224	B10	2	3	gyrus temporalis medius	0	depth
+24.0	3.0	pathology	120000	y056225	B10	2	3	gyrus temporalis medius	0	depth
+27.0	3.0	pathology	135000	y056226	B10	2	3	gyrus temporalis medius	0	depth
+30.0	3.0	pathology	150000	y056227	B10	2	3	gyrus temporalis medius	0	depth
+33.0	3.0	pathology	165000	y056228	B10	2	3	gyrus temporalis medius	0	depth
+36.0	3.0	pathology	180000	y056229	B10	2	3	gyrus temporalis medius	0	depth
+39.0	3.0	pathology	195000	y056230	B10	2	3	gyrus temporalis medius	0	depth
+42.0	3.0	pathology	210000	y056231	B10	2	3	gyrus temporalis medius	0	depth
+45.0	3.0	pathology	225000	y056232	B10	2	3	gyrus temporalis medius	0	depth
+48.0	3.0	pathology	240000	y056233	B10	2	3	gyrus temporalis medius	0	depth
+51.0	3.0	pathology	255000	y056234	B10	2	3	gyrus temporalis medius	0	depth
+54.0	3.0	pathology	270000	y056235	B10	2	3	gyrus temporalis medius	0	depth
+57.0	3.0	pathology	285000	y056236	B10	2	3	gyrus temporalis medius	0	depth
+60.0	3.0	pathology	300000	y056237	B10	2	3	gyrus temporalis medius	0	depth
+63.0	3.0	pathology	315000	y056238	B10	2	3	gyrus temporalis medius	0	depth

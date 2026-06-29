@@ -1,0 +1,15 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y027738	B'7	2	3	wm	0	depth
+3.0	3.0	pathology	15000	y027739	B'7	2	3	wm	0	depth
+6.0	3.0	pathology	30000	y027740	B'7	2	3	wm	0	depth
+9.0	3.0	pathology	45000	y027741	B'7	2	3	wm	0	depth
+12.0	3.0	pathology	60000	y027742	B'7	2	3	wm	0	depth
+15.0	3.0	pathology	75000	y027743	B'7	2	3	wm	0	depth
+18.0	3.0	pathology	90000	y027744	B'7	2	3	wm	0	depth
+21.0	3.0	pathology	105000	y027745	B'7	2	3	wm	0	depth
+24.0	3.0	pathology	120000	y027746	B'7	2	3	wm	0	depth
+27.0	3.0	pathology	135000	y027747	B'7	2	3	wm	0	depth
+30.0	3.0	pathology	150000	y027748	B'7	2	3	wm	0	depth
+33.0	3.0	pathology	165000	y027749	B'7	2	3	wm	0	depth
+36.0	3.0	pathology	180000	y027750	B'7	2	3	wm	0	depth
+39.0	3.0	pathology	195000	y027751	B'7	2	3	wm	0	depth

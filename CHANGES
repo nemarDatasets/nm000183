@@ -1,6 +1,1 @@
-1.0.1 - metadata enrichment
-  - fixed BIDSVersion, dataset name, added DOI/references/GeneratedBy
-  - ieeg.json: TaskName matched to filename, model, full HardwareFilters
-  - channels.tsv: units (uV) and documented passband
-  - added electrodes.tsv (coords n/a) + coordsystem.json per subject
-  - added participants.tsv/json, README
+1.0.0 - Initial BIDS conversion from public segmented .mat archives.

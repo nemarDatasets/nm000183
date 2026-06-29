@@ -1,0 +1,16 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y097481	B'1	2	2	hippocampus	1	depth
+3.0	3.0	pathology	15000	y097482	B'1	2	2	hippocampus	1	depth
+6.0	3.0	pathology	30000	y097483	B'1	2	2	hippocampus	1	depth
+9.0	3.0	pathology	45000	y097484	B'1	2	2	hippocampus	1	depth
+12.0	3.0	pathology	60000	y097485	B'1	2	2	hippocampus	1	depth
+15.0	3.0	pathology	75000	y097486	B'1	2	2	hippocampus	1	depth
+18.0	3.0	pathology	90000	y097487	B'1	2	2	hippocampus	1	depth
+21.0	3.0	pathology	105000	y097488	B'1	2	2	hippocampus	1	depth
+24.0	3.0	pathology	120000	y097489	B'1	2	2	hippocampus	1	depth
+27.0	3.0	pathology	135000	y097490	B'1	2	2	hippocampus	1	depth
+30.0	3.0	pathology	150000	y097491	B'1	2	2	hippocampus	1	depth
+33.0	3.0	pathology	165000	y097492	B'1	2	2	hippocampus	1	depth
+36.0	3.0	pathology	180000	y097493	B'1	2	2	hippocampus	1	depth
+39.0	3.0	pathology	195000	y097494	B'1	2	2	hippocampus	1	depth
+42.0	3.0	pathology	210000	y097495	B'1	2	2	hippocampus	1	depth
