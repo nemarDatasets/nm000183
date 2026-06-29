@@ -1,0 +1,14 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y113597	K'9	1	3	n/a	0	depth
+3.0	3.0	noise	15000	y113598	K'9	1	3	n/a	0	depth
+6.0	3.0	noise	30000	y113599	K'9	1	3	n/a	0	depth
+9.0	3.0	noise	45000	y113600	K'9	1	3	n/a	0	depth
+12.0	3.0	noise	60000	y113601	K'9	1	3	n/a	0	depth
+15.0	3.0	noise	75000	y113602	K'9	1	3	n/a	0	depth
+18.0	3.0	noise	90000	y113603	K'9	1	3	n/a	0	depth
+21.0	3.0	noise	105000	y113604	K'9	1	3	n/a	0	depth
+24.0	3.0	noise	120000	y113605	K'9	1	3	n/a	0	depth
+27.0	3.0	noise	135000	y113606	K'9	1	3	n/a	0	depth
+30.0	3.0	noise	150000	y113607	K'9	1	3	n/a	0	depth
+33.0	3.0	noise	165000	y113608	K'9	1	3	n/a	0	depth
+36.0	3.0	noise	180000	y113609	K'9	1	3	n/a	0	depth

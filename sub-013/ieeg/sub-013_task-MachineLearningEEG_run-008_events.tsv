@@ -1,0 +1,23 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y174873	A8	1	3	gyrus temporalis medius	0	depth
+3.0	3.0	physiology	15000	y174874	A8	3	3	gyrus temporalis medius	0	depth
+6.0	3.0	physiology	30000	y174875	A8	3	3	gyrus temporalis medius	0	depth
+9.0	3.0	physiology	45000	y174876	A8	3	3	gyrus temporalis medius	0	depth
+12.0	3.0	physiology	60000	y174877	A8	3	3	gyrus temporalis medius	0	depth
+15.0	3.0	physiology	75000	y174878	A8	3	3	gyrus temporalis medius	0	depth
+18.0	3.0	physiology	90000	y174879	A8	3	3	gyrus temporalis medius	0	depth
+21.0	3.0	physiology	105000	y174880	A8	3	3	gyrus temporalis medius	0	depth
+24.0	3.0	physiology	120000	y174881	A8	3	3	gyrus temporalis medius	0	depth
+27.0	3.0	physiology	135000	y174882	A8	3	3	gyrus temporalis medius	0	depth
+30.0	3.0	physiology	150000	y174883	A8	3	3	gyrus temporalis medius	0	depth
+33.0	3.0	physiology	165000	y174884	A8	3	3	gyrus temporalis medius	0	depth
+36.0	3.0	physiology	180000	y174885	A8	3	3	gyrus temporalis medius	0	depth
+39.0	3.0	physiology	195000	y174886	A8	3	3	gyrus temporalis medius	0	depth
+42.0	3.0	physiology	210000	y174887	A8	3	3	gyrus temporalis medius	0	depth
+45.0	3.0	physiology	225000	y174888	A8	3	3	gyrus temporalis medius	0	depth
+48.0	3.0	noise	240000	y174889	A8	1	3	gyrus temporalis medius	0	depth
+51.0	3.0	physiology	255000	y174890	A8	3	3	gyrus temporalis medius	0	depth
+54.0	3.0	physiology	270000	y174891	A8	3	3	gyrus temporalis medius	0	depth
+57.0	3.0	physiology	285000	y174892	A8	3	3	gyrus temporalis medius	0	depth
+60.0	3.0	physiology	300000	y174893	A8	3	3	gyrus temporalis medius	0	depth
+63.0	3.0	physiology	315000	y174894	A8	3	3	gyrus temporalis medius	0	depth

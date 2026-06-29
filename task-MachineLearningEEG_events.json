@@ -1,0 +1,41 @@
+{
+  "trial_type": {
+    "Description": "Graphoelement category assigned to the 3 s clip.",
+    "Levels": {
+      "powerline_50hz": "50 Hz power-line interference.",
+      "powerline_60hz": "60 Hz power-line interference.",
+      "noise": "Non-cerebral artifact.",
+      "physiology": "Physiological iEEG activity.",
+      "pathology": "Pathological or epileptic iEEG activity."
+    }
+  },
+  "segment_id": {
+    "Description": "Original segment identifier in the .mat archive."
+  },
+  "source_channel": {
+    "Description": "Original SEEG contact name for this clip."
+  },
+  "category_id": {
+    "Description": "Original integer category code from segments.csv."
+  },
+  "reviewer_id": {
+    "Description": "Reviewer identifier from segments.csv."
+  },
+  "anatomy": {
+    "Description": "Anatomical label from segments.csv, or n/a."
+  },
+  "soz": {
+    "Description": "Original seizure-onset-zone code from segments.csv.",
+    "Levels": {
+      "0": "outside SOZ",
+      "1": "inside SOZ",
+      "2": "source code 2; meaning is not specified in the segmented release"
+    }
+  },
+  "electrode_type": {
+    "Description": "Electrode type from segments.csv."
+  },
+  "sample": {
+    "Description": "Event onset in samples from the start of the run."
+  }
+}

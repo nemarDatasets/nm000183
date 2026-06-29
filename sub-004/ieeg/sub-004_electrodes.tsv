@@ -1,57 +1,40 @@
 name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
-C'1	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	wm
-C'10	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	none
-C'2	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	wm
-C'3	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'4	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'5	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'6	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'7	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'8	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-C'9	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-D'1	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus fusiformis
-D'10	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-D'2	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus fusiformis
-D'3	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus fusiformis
-D'4	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	wm
-D'5	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
-D'6	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
-D'7	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
-D'8	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
-D'9	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-G'1	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	wm
-G'10	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-G'11	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	1	gyrus precentralis
-G'12	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	1	gyrus precentralis
-G'13	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-G'14	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	none
-G'2	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	wm
-G'3	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	wm
-G'4	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	wm
-G'5	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	wm
-G'6	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-G'7	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-G'8	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-G'9	n/a	n/a	n/a	0.8	G'	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
-H'1	n/a	n/a	n/a	0.8	H'	Platinum	ALCIS - Temis Health, France	0	sulcus parietooccipitalis/precuneus
-K'1	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	cuneus
-K'10	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-K'12	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	1	gyrus temporalis medius
-K'13	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	1	gyrus temporalis medius
-K'2	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	cuneus
-K'3	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	cuneus
-K'4	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	cuneus
-K'5	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	cuneus
-K'6	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	wm
-K'7	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	wm
-K'8	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	wm
-K'9	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'1	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	wm
+C'2	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	wm
+C'3	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'4	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'5	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'6	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'7	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'8	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'9	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'10	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	n/a
+D'1	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	2	gyrus fusiformis
+D'2	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	2	gyrus fusiformis
+D'3	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	2	gyrus fusiformis
+D'4	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	2	wm
+D'5	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
+D'6	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
+D'7	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
+D'8	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
+D'9	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+D'10	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+G'1	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	wm
+G'2	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	wm
+G'3	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	wm
+G'4	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	wm
+G'5	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	wm
+G'6	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'7	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'8	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'9	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'10	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'11	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	1	gyrus precentralis
+G'12	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	1	gyrus precentralis
+G'13	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	gyrus precentralis
+G'14	n/a	n/a	n/a	0.8	G	Platinum	ALCIS - Temis Health, France	0	n/a
+H'1	n/a	n/a	n/a	0.8	H	Platinum	ALCIS - Temis Health, France	0	sulcus parietooccipitalis/precuneus
 K1	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	precuneus
-K10	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
-K11	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
-K12	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
-K13	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
-K14	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
 K2	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	precuneus
 K3	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	precuneus
 K4	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	precuneus
@@ -60,19 +43,36 @@ K6	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
 K7	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
 K8	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
 K9	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
-L'1	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
-L'10	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'11	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'12	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
-L'13	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
-L'14	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
-L'15	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
-L'2	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
-L'3	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
-L'4	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'5	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'6	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'7	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'8	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-L'9	n/a	n/a	n/a	0.8	L'	Platinum	ALCIS - Temis Health, France	0	wm
-P'1	n/a	n/a	n/a	0.8	P'	Platinum	ALCIS - Temis Health, France	0	precuneus
+K10	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
+K11	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
+K12	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
+K13	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
+K14	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus angularis
+K'1	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	cuneus
+K'2	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	cuneus
+K'3	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	cuneus
+K'4	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	cuneus
+K'5	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	cuneus
+K'6	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
+K'7	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	wm
+K'8	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	2	wm
+K'9	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	2	gyrus temporalis medius
+K'10	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	2	gyrus temporalis medius
+K'12	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	1	gyrus temporalis medius
+K'13	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	1	gyrus temporalis medius
+L'1	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
+L'2	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
+L'3	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus cinguli
+L'4	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'5	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'6	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'7	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'8	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'9	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'10	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'11	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	wm
+L'12	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
+L'13	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
+L'14	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
+L'15	n/a	n/a	n/a	0.8	L	Platinum	ALCIS - Temis Health, France	0	gyrus supramarginalis
+P'1	n/a	n/a	n/a	0.8	P	Platinum	ALCIS - Temis Health, France	2	precuneus

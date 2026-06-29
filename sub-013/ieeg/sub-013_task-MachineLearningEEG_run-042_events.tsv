@@ -1,0 +1,13 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	noise	0	y179927	C'4	1	3	gyrus fusiformis	0	depth
+3.0	3.0	noise	15000	y179928	C'4	1	3	gyrus fusiformis	0	depth
+6.0	3.0	noise	30000	y179929	C'4	1	3	gyrus fusiformis	0	depth
+9.0	3.0	physiology	45000	y179930	C'4	3	3	gyrus fusiformis	0	depth
+12.0	3.0	physiology	60000	y179931	C'4	3	3	gyrus fusiformis	0	depth
+15.0	3.0	physiology	75000	y179932	C'4	3	3	gyrus fusiformis	0	depth
+18.0	3.0	physiology	90000	y179933	C'4	3	3	gyrus fusiformis	0	depth
+21.0	3.0	physiology	105000	y179934	C'4	3	3	gyrus fusiformis	0	depth
+24.0	3.0	physiology	120000	y179935	C'4	3	3	gyrus fusiformis	0	depth
+27.0	3.0	physiology	135000	y179936	C'4	3	3	gyrus fusiformis	0	depth
+30.0	3.0	physiology	150000	y179937	C'4	3	3	gyrus fusiformis	0	depth
+33.0	3.0	noise	165000	y179938	C'4	1	3	gyrus fusiformis	0	depth

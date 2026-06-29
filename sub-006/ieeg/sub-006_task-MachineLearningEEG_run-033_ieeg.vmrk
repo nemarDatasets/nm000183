@@ -1,0 +1,57 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+; Exported using pybv 0.7.6
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-006_task-MachineLearningEEG_run-033_ieeg.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+;             <Size in data points>, <Channel number (0 = marker is related to all channels)>
+;             <Date (YYYYMMDDhhmmssuuuuuu)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=Comment,pathology,1,15000,0
+Mk2=Comment,pathology,15001,15000,0
+Mk3=Comment,pathology,30001,15000,0
+Mk4=Comment,pathology,45001,15000,0
+Mk5=Comment,pathology,60001,15000,0
+Mk6=Comment,pathology,75001,15000,0
+Mk7=Comment,pathology,90001,15000,0
+Mk8=Comment,pathology,105001,15000,0
+Mk9=Comment,pathology,120001,15000,0
+Mk10=Comment,pathology,135001,15000,0
+Mk11=Comment,pathology,150001,15000,0
+Mk12=Comment,pathology,165001,15000,0
+Mk13=Comment,pathology,180001,15000,0
+Mk14=Comment,pathology,195001,15000,0
+Mk15=Comment,pathology,210001,15000,0
+Mk16=Comment,pathology,225001,15000,0
+Mk17=Comment,pathology,240001,15000,0
+Mk18=Comment,pathology,255001,15000,0
+Mk19=Comment,pathology,270001,15000,0
+Mk20=Comment,pathology,285001,15000,0
+Mk21=Comment,pathology,300001,15000,0
+Mk22=Comment,pathology,315001,15000,0
+Mk23=Comment,pathology,330001,15000,0
+Mk24=Comment,pathology,345001,15000,0
+Mk25=Comment,pathology,360001,15000,0
+Mk26=Comment,pathology,375001,15000,0
+Mk27=Comment,pathology,390001,15000,0
+Mk28=Comment,pathology,405001,15000,0
+Mk29=Comment,pathology,420001,15000,0
+Mk30=Comment,pathology,435001,15000,0
+Mk31=Comment,pathology,450001,15000,0
+Mk32=Comment,pathology,465001,15000,0
+Mk33=Comment,pathology,480001,15000,0
+Mk34=Comment,pathology,495001,15000,0
+Mk35=Comment,pathology,510001,15000,0
+Mk36=Comment,pathology,525001,15000,0
+Mk37=Comment,pathology,540001,15000,0
+Mk38=Comment,pathology,555001,15000,0
+Mk39=Comment,pathology,570001,15000,0
+Mk40=Comment,pathology,585001,15000,0
+Mk41=Comment,pathology,600001,15000,0
+Mk42=Comment,pathology,615001,15000,0
+Mk43=Comment,pathology,630001,15000,0
+Mk44=Comment,pathology,645001,15000,0

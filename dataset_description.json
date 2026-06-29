@@ -1,6 +1,7 @@
 {
   "Name": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "BIDSVersion": "1.9.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
     "Petr Nejedly",
@@ -20,23 +21,24 @@
     "Gregory Worrell"
   ],
   "Acknowledgements": "Staff of St. Anne's University Hospital",
-  "DatasetType": "raw",
   "DatasetDOI": "10.82901/nemar.nm000183",
-  "HowToAcknowledge": "Please cite Nejedly et al. 2020, Sci Data (doi:10.1038/s41597-020-0532-5).",
+  "Version": "1.0.1",
+  "HowToAcknowledge": "Please cite Nejedly et al. 2020, Scientific Data (doi:10.1038/s41597-020-0532-5).",
   "ReferencesAndLinks": [
     "https://doi.org/10.1038/s41597-020-0532-5",
     "https://doi.org/10.6084/m9.figshare.12191868"
   ],
-  "GeneratedBy": [
-    {
-      "Name": "metadata enrichment",
-      "Description": "Sidecars/electrodes/participants added or corrected from the source paper; recording data unchanged."
-    }
-  ],
   "SourceDatasets": [
     {
-      "DOI": "doi:10.6084/m9.figshare.12191868"
+      "URL": "https://doi.org/10.6084/m9.figshare.12191868",
+      "DOI": "doi:10.6084/m9.figshare.12191868",
+      "Version": "1"
     }
   ],
-  "Version": "1.0.0"
+  "GeneratedBy": [
+    {
+      "Name": "convert_mayo_to_bids.py",
+      "Description": "BrainVision iEEG BIDS conversion from public segmented .mat clip archives; recording data unchanged from the released clips."
+    }
+  ]
 }

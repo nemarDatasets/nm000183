@@ -1,0 +1,6 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y009033	D'1	2	2	gliosis	0	depth
+3.0	3.0	pathology	15000	y009034	D'1	2	2	gliosis	0	depth
+6.0	3.0	pathology	30000	y009035	D'1	2	2	gliosis	0	depth
+9.0	3.0	pathology	45000	y009036	D'1	2	2	gliosis	0	depth
+12.0	3.0	pathology	60000	y009037	D'1	2	2	gliosis	0	depth

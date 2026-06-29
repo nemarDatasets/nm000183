@@ -1,0 +1,13 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	y115874	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+3.0	3.0	pathology	15000	y115875	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+6.0	3.0	pathology	30000	y115876	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+9.0	3.0	pathology	45000	y115877	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+12.0	3.0	pathology	60000	y115878	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+15.0	3.0	pathology	75000	y115879	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+18.0	3.0	pathology	90000	y115880	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+21.0	3.0	pathology	105000	y115881	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+24.0	3.0	pathology	120000	y115882	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+27.0	3.0	pathology	135000	y115883	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+30.0	3.0	pathology	150000	y115884	Tp'1	2	3	uncus gyri parahippocampalis	2	depth
+33.0	3.0	pathology	165000	y115885	Tp'1	2	3	uncus gyri parahippocampalis	2	depth

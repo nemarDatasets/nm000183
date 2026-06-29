@@ -1,52 +1,52 @@
 name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
-A'10	n/a	n/a	n/a	0.8	A'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-A'6	n/a	n/a	n/a	0.8	A'	Platinum	ALCIS - Temis Health, France	0	wm
-A'7	n/a	n/a	n/a	0.8	A'	Platinum	ALCIS - Temis Health, France	0	wm
-A'8	n/a	n/a	n/a	0.8	A'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-A'9	n/a	n/a	n/a	0.8	A'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-B'1	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-B'10	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-B'2	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-B'3	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-B'4	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	1	wm
-B'5	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	0	wm
-B'6	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	0	wm
-B'7	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-B'8	n/a	n/a	n/a	0.8	B'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-B1	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	hippocampus anterior
-B10	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
-B2	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	hippocampus anterior
-B3	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	hippocampus anterior
-B4	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	wm
+A'6	n/a	n/a	n/a	0.8	A	Platinum	ALCIS - Temis Health, France	0	wm
+A'7	n/a	n/a	n/a	0.8	A	Platinum	ALCIS - Temis Health, France	0	wm
+A'8	n/a	n/a	n/a	0.8	A	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+A'9	n/a	n/a	n/a	0.8	A	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+A'10	n/a	n/a	n/a	0.8	A	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+B1	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	2	hippocampus anterior
+B2	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	2	hippocampus anterior
+B3	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	2	hippocampus anterior
+B4	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	2	wm
 B5	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	wm
-C'1	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-C'14	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	none
-C'2	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-C'3	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-C'4	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
-C'5	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	wm
-C'6	n/a	n/a	n/a	0.8	C'	Platinum	ALCIS - Temis Health, France	0	wm
-D'7	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis superior
-D'8	n/a	n/a	n/a	0.8	D'	Platinum	ALCIS - Temis Health, France	0	none
-I'10	n/a	n/a	n/a	0.8	I'	Platinum	ALCIS - Temis Health, France	0	none
-I'8	n/a	n/a	n/a	0.8	I'	Platinum	ALCIS - Temis Health, France	0	none
-I'9	n/a	n/a	n/a	0.8	I'	Platinum	ALCIS - Temis Health, France	0	none
-K'1	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	gyrus fusiformis
-K'10	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	none
-K'8	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	none
-K'9	n/a	n/a	n/a	0.8	K'	Platinum	ALCIS - Temis Health, France	0	none
-O'12	n/a	n/a	n/a	0.8	O'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
-O'13	n/a	n/a	n/a	0.8	O'	Platinum	ALCIS - Temis Health, France	0	none
-O'14	n/a	n/a	n/a	0.8	O'	Platinum	ALCIS - Temis Health, France	0	none
-O'15	n/a	n/a	n/a	0.8	O'	Platinum	ALCIS - Temis Health, France	0	none
-P'10	n/a	n/a	n/a	0.8	P'	Platinum	ALCIS - Temis Health, France	0	none
-P'7	n/a	n/a	n/a	0.8	P'	Platinum	ALCIS - Temis Health, France	0	lobulus parietalis inferior
-P'8	n/a	n/a	n/a	0.8	P'	Platinum	ALCIS - Temis Health, France	0	none
-P'9	n/a	n/a	n/a	0.8	P'	Platinum	ALCIS - Temis Health, France	0	none
-Tp'1	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	uncus gyri parahippocampalis
-Tp'2	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	uncus gyri parahippocampalis
-Tp'3	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis superior
-Tp'4	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis superior
-Tp'5	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis superior
-Tp'9	n/a	n/a	n/a	0.8	Tp'	Platinum	ALCIS - Temis Health, France	0	none
-Tp10	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	0	none
+B10	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+B'1	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+B'2	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+B'3	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+B'4	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	1	wm
+B'5	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	wm
+B'6	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	wm
+B'7	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+B'8	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+B'10	n/a	n/a	n/a	0.8	B	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis medius
+C'1	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+C'2	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+C'3	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+C'4	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	1	hippocampus anterior
+C'5	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	wm
+C'6	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	wm
+C'14	n/a	n/a	n/a	0.8	C	Platinum	ALCIS - Temis Health, France	0	n/a
+D'7	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis superior
+D'8	n/a	n/a	n/a	0.8	D	Platinum	ALCIS - Temis Health, France	0	n/a
+I'8	n/a	n/a	n/a	0.8	I	Platinum	ALCIS - Temis Health, France	0	n/a
+I'9	n/a	n/a	n/a	0.8	I	Platinum	ALCIS - Temis Health, France	0	n/a
+I'10	n/a	n/a	n/a	0.8	I	Platinum	ALCIS - Temis Health, France	0	n/a
+K'1	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	gyrus fusiformis
+K'8	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	n/a
+K'9	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	n/a
+K'10	n/a	n/a	n/a	0.8	K	Platinum	ALCIS - Temis Health, France	0	n/a
+O'12	n/a	n/a	n/a	0.8	O	Platinum	ALCIS - Temis Health, France	0	gyrus temporalis inferior
+O'13	n/a	n/a	n/a	0.8	O	Platinum	ALCIS - Temis Health, France	0	n/a
+O'14	n/a	n/a	n/a	0.8	O	Platinum	ALCIS - Temis Health, France	0	n/a
+O'15	n/a	n/a	n/a	0.8	O	Platinum	ALCIS - Temis Health, France	0	n/a
+P'7	n/a	n/a	n/a	0.8	P	Platinum	ALCIS - Temis Health, France	0	lobulus parietalis inferior
+P'8	n/a	n/a	n/a	0.8	P	Platinum	ALCIS - Temis Health, France	0	n/a
+P'9	n/a	n/a	n/a	0.8	P	Platinum	ALCIS - Temis Health, France	0	n/a
+P'10	n/a	n/a	n/a	0.8	P	Platinum	ALCIS - Temis Health, France	0	n/a
+Tp10	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	0	n/a
+Tp'1	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	2	uncus gyri parahippocampalis
+Tp'2	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	2	uncus gyri parahippocampalis
+Tp'3	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	2	gyrus temporalis superior
+Tp'4	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	2	gyrus temporalis superior
+Tp'5	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	2	gyrus temporalis superior
+Tp'9	n/a	n/a	n/a	0.8	Tp	Platinum	ALCIS - Temis Health, France	0	n/a

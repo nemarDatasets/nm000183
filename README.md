@@ -1,21 +1,27 @@
-[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000183-blue)](https://doi.org/10.82901/nemar.nm000183)
+Nejedly2020 multicenter iEEG graphoelement clips (FNUSA)
 
-Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)
+This BIDS dataset is converted from the public segmented .mat archives released
+with Nejedly et al. 2020, Scientific Data:
+https://doi.org/10.1038/s41597-020-0532-5
 
-Official iEEG-BIDS release (MEF3) by Nejedly et al. 2020, Scientific Data
-(doi:10.1038/s41597-020-0532-5; data doi:10.6084/m9.figshare.12191868), with metadata enrichment. Recording
-data are unchanged; only sidecars, electrodes.tsv, participants.tsv and this
-README were added or corrected. See papers/Nejedly2020_SciData_MAYO_FNUSA.md.
+The source data are independent 3 s single-channel iEEG clips. The original
+authors also released MEF3 BIDS archives for reviewer-requested compatibility,
+but those contain the same data as the .mat clips. This conversion therefore
+uses the segmented archives directly.
 
-Recording (from the paper)
-  - Institution: St. Anne's University Hospital, Brno, Czech Republic (FNUSA)
-  - Acquisition: M&I, BrainScope BrainScope, 25 kHz original ->
-    downsampled to 5 kHz. Power line: 50 Hz. Ground: n/a.
-  - 30 min awake resting interictal recording.
+Layout
+------
+Each BIDS run contains clips from one subject and one source SEEG contact,
+concatenated at 5000 Hz. Events mark the 3 s clip boundaries and preserve the
+original label, segment_id, anatomy, reviewer_id, SOZ flag, and electrode type.
+The runs are not continuous clinical recordings and should not be interpreted as
+real time-contiguous data across clip boundaries.
 
-Electrodes (from the paper)
-  - Standard intracranial depth electrodes (5/10/15-contact semi-flexible, ALCIS, Platinum); 2 mm contact length, 0.8 mm diameter, 1.5 mm inter-contact spacing.
-  - electrodes.tsv lists every contact with shaft group, SOZ flag and (where
-    available) anatomy. Coordinates are n/a: patient positions were never published.
+Subject labels preserve the original NEMAR/OpenNeuro style (for example sub-000) because this is a single-site dataset.
 
-Channels labelled in description as soz / nonsoz indicate the seizure onset zone.
+Electrodes
+----------
+Patient-specific electrode coordinates were not released with the segmented
+dataset. Therefore electrodes.tsv keeps x/y/z as n/a while preserving contact
+names, material, and manufacturer. Anatomy and SOZ labels are preserved per clip
+in events.tsv.
