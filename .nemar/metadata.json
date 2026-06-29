@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes clinical metadata such as seizure onset zone (SOZ) flags, anatomical localization, and electrode characteristics across multiple recording sites. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
-  "methods_description": "iEEG data were recorded from epilepsy patients using depth and subdural electrodes. The dataset consists of independent 3-second single-channel clips sampled at 5000 Hz, extracted from clinical recordings and segmented into .mat archives. Each clip is annotated with electrode type, anatomical location, reviewer identification, and SOZ status. Data were converted to BIDS format from the original segmented archives while preserving all clinical annotations and signal integrity.",
+  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes clinical metadata such as seizure onset zone (SOZ) flags, anatomical localization, and electrode characteristics from St. Anne's University Hospital. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
+  "methods_description": "iEEG data were recorded from epilepsy patients and segmented into independent 3-second single-channel clips. The clips were concatenated at 5000 Hz sampling rate, with event markers preserving original labels, segment identifiers, anatomical information, reviewer identifiers, SOZ flags, and electrode types. Data were converted from segmented .mat archives to BIDS format using BrainVision iEEG conversion protocols.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -37,16 +37,16 @@
       "term": "epilepsy"
     },
     {
-      "term": "seizure detection"
+      "term": "signal classification"
     },
     {
-      "term": "artifact classification"
+      "term": "artifact detection"
     },
     {
-      "term": "signal processing"
+      "term": "seizure onset zone"
     },
     {
-      "term": "clinical neurophysiology"
+      "term": "neurophysiology"
     }
   ],
   "related_identifiers": [
