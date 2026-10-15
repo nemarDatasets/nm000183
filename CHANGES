@@ -1,1 +1,23 @@
-1.0.0 - Initial BIDS conversion from public segmented .mat archives.
+1.0.3 - 2026-10-14
+  - CHANGES: release history completed. The 1.0.1 change replaced this file with a single 1.0.0 line, so the entries
+    for 1.0.1 and 1.0.2 below were missing and 1.0.0 was described as the .mat conversion that only 1.0.1 introduced
+    (that line, '1.0.0 - Initial BIDS conversion from public segmented .mat archives.', is replaced by the entries
+    below). No data or other metadata change.
+  - dataset_description.json: Version 1.0.2 -> 1.0.3.
+
+1.0.2 - 2026-06-29
+  - Version 1.0.1 -> 1.0.2 and regenerated NEMAR metadata (.nemar/metadata.json); no dataset file changed otherwise.
+
+1.0.1 - 2026-06-29
+  - Replaced the MEF3 iEEG-BIDS payload of 1.0.0 with a BrainVision iEEG conversion of the public segmented .mat clip
+    archives of Nejedly et al. 2020 (Scientific Data, doi:10.1038/s41597-020-0532-5; data doi:10.6084/m9.figshare.12191868): each run holds the
+    3 s single-channel clips of one subject and one source SEEG contact, concatenated at 5000 Hz; events mark the clip
+    boundaries with the original label, segment_id, anatomy, reviewer_id, SOZ flag and electrode type. The authors' MEF3
+    archives hold the same clips.
+  - README, participants.tsv/json, sidecars, electrodes.tsv (x/y/z n/a, not released) rewritten for this layout;
+    BIDSVersion 1.10.1; SourceDatasets (figshare) and GeneratedBy (convert_mayo_to_bids.py) updated.
+
+1.0.0 - 2026-06-20
+  - Initial NEMAR release: the authors' MEF3 iEEG-BIDS release (FNUSA) with metadata enrichment (BIDSVersion, dataset
+    name, DOI/references/GeneratedBy; ieeg.json TaskName, model and HardwareFilters; channels.tsv units and passband;
+    electrodes.tsv with n/a coordinates and coordsystem.json per subject; participants.tsv/json; README).
