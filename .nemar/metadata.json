@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (FNUSA)",
-  "description": "This dataset contains 3-second single-channel intracranial EEG (stereo-EEG) clips from patients at St. Anne's University Hospital (FNUSA), annotated for classification of physiological and pathological graphoelements and artifactual signals. It is a BIDS conversion of the segmented .mat archives from Nejedly et al. 2020. Clips are concatenated per subject and source contact at 5000 Hz, with events preserving labels, anatomy, reviewer ID, seizure onset zone flag, and electrode type.",
-  "methods_description": "Independent 3 s single-channel iEEG clips from SEEG contacts were concatenated per subject and contact at 5000 Hz and converted to BrainVision BIDS format. Events mark clip boundaries and retain the original label, segment_id, anatomy, reviewer_id, SOZ flag, and electrode type. Electrode coordinates were not released.",
+  "title": "Nejedly-2020b-multicenter-10.1038/s41597-020-0532-5",
+  "description": "This dataset provides intracranial EEG (stereo-EEG) clips from a multicenter collection for classification of physiological and pathological graphoelements and artifactual signals. It comprises independent 3 s single-channel clips sampled at 5000 Hz, converted to BIDS from the segmented .mat archives released with Nejedly et al. 2020. Events preserve clip labels, anatomy, reviewer identity, seizure onset zone flags, and electrode type.",
+  "methods_description": "Independent 3 s single-channel iEEG clips from one subject and one SEEG contact were concatenated at 5000 Hz into each BIDS run. Events mark the clip boundaries and retain the original annotations. Electrode coordinates were not released, so x/y/z are n/a in electrodes.tsv.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -37,9 +37,10 @@
       "term": "stereo-EEG"
     },
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "graphoelements"
+    },
+    {
+      "term": "artifact classification"
     },
     {
       "term": "Epilepsy",
@@ -47,13 +48,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "artifact detection"
-    },
-    {
-      "term": "graphoelements"
-    },
-    {
-      "term": "machine learning classification"
+      "term": "seizure onset zone"
     }
   ],
   "related_identifiers": [
@@ -95,5 +90,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "be431a87bba085bc0ff37ac5a6689215071534ec743283bc296a575a0a25a5df"
+  "source_hash": "c7744e99a58c9007669ad9b01a0d069d204e7b20f458d7d362aa7341ace9061b"
 }
