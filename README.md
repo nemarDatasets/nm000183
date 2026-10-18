@@ -25,3 +25,7 @@ Patient-specific electrode coordinates were not released with the segmented
 dataset. Therefore electrodes.tsv keeps x/y/z as n/a while preserving contact
 names, material, and manufacturer. Anatomy and SOZ labels are preserved per clip
 in events.tsv.
+
+## RecordingType (18 Oct 2026)
+
+The 632 data files are marked `RecordingType` epoched, but their `ieeg.json` had no `EpochLength`, so `mne_bids.read_epochs_bids` stopped with "sidecar is missing 'EpochLength'" (and `read_raw_bids` refuses epoched files by design). Each file is a back-to-back series of independent clips: its `events.tsv` has one row per clip, every row lasts 3 s and the rows tile the file exactly (onset k x 3 s, number of rows x clip length = number of samples in the data header; checked for every file, 193118 clips). `EpochLength` = 3 was added to every `ieeg.json`; `read_epochs_bids` now returns one epoch per clip, labelled by `trial_type`.

@@ -15,6 +15,7 @@
   },
   "RecordingDuration": 1770.0,
   "RecordingType": "epoched",
+  "EpochLength": 3.0,
   "iEEGReference": "Common reference montage.",
   "iEEGGround": "n/a",
   "iEEGPlacementScheme": "n/a",

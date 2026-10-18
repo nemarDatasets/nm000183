@@ -1,3 +1,8 @@
+1.0.5 - 2026-10-18
+  - ieeg.json of 632 epoched files: EpochLength 3 added (events.tsv rows tile each file; read_epochs_bids failed: sidecar is missing 'EpochLength').
+  - README: section 'RecordingType (18 Oct 2026)'.
+  - dataset_description.json: Version 1.0.4 -> 1.0.5.
+
 1.0.3 - 2026-10-14
   - CHANGES: release history completed. The 1.0.1 change replaced this file with a single 1.0.0 line, so the entries
     for 1.0.1 and 1.0.2 below were missing and 1.0.0 was described as the .mat conversion that only 1.0.1 introduced
